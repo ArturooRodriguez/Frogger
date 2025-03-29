@@ -1,4 +1,4 @@
-# FroggerProcess - Gioco Frogger in C con ncurses
+# Frogger - Gioco Frogger in C con ncurses
 
 FroggerProcess è un progetto sviluppato in linguaggio C utilizzando la libreria **ncurses** per la grafica in terminale. L'obiettivo è realizzare una versione del gioco **Frogger** tramite un'architettura concorrente, sfruttando sia processi che thread.
 
